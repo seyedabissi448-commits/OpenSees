@@ -240,6 +240,7 @@ TclInterpreter::TclInterpreter(int argc, char **argv)
   fprintf(stderr,"\t    (c) Copyright 1999,2000 The Regents of the University of California");
   fprintf(stderr,"\n\t\t\t\t All Rights Reserved\n");    
   fprintf(stderr,"    (Copyright and Disclaimer @ http://www.berkeley.edu/OpenSees/copyright.html)\n\n\n");
+  fprintf(stderr, "\n\tEdited by S.M Taherabadi\n");
   
   Tcl_FindExecutable(argv[0]);
   interp = Tcl_CreateInterp();
