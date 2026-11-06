@@ -417,6 +417,7 @@ Tcl_Main(
 	fprintf(stderr,"\t    (c) Copyright 1999,2000 The Regents of the University of California");
 	fprintf(stderr,"\n\t\t\t\t All Rights Reserved\n");    
 	fprintf(stderr,"    (Copyright and Disclaimer @ http://www.berkeley.edu/OpenSees/copyright.html)\n\n\n");
+	fprintf(stderr,"\tEdited by S.M Taherabadi\n\n");
 	
 
 #ifdef _PARALLEL_INTERPRETERS
